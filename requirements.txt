@@ -1,0 +1,4 @@
+litestar[full]
+sqlalchemy
+aiosqlite
+uvicorn
